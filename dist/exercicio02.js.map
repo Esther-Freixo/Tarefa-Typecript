@@ -1,0 +1,1 @@
+{"version":3,"file":"exercicio02.js","sourceRoot":"","sources":["../exercicio02.ts"],"names":[],"mappings":";;AAEA,SAAS,qBAAqB,CAAC,KAAuB;IAClD,QAAQ,KAAK,EAAE,CAAC;QACZ,KAAK,SAAS;YACV,OAAO,8BAA8B,CAAC;QAC1C,KAAK,MAAM;YACP,OAAO,yBAAyB,CAAC;QACrC,KAAK,YAAY;YACb,OAAO,6BAA6B,CAAC;IAC7C,CAAC;AACL,CAAC"}
