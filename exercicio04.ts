@@ -9,7 +9,7 @@ const user = {
     email: "esther@gmail.com",
     exibirInfo() {
         return `Nome: ${this.nome} - Email: ${this.email}`;
-      }
+    }
 }
 
 console.log(user.exibirInfo());
